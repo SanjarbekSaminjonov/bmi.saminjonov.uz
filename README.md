@@ -1,6 +1,6 @@
 # bmi.saminjonov.uz (2022-2023)
 
-## Prezentatsiya
+## Taqdimot
 [PDF formatda ko'rish](./presentation.pdf)
 
 ## Bitiruv malakaviy ishi hujjati
