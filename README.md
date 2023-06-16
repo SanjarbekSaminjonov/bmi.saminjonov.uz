@@ -21,6 +21,12 @@ Dastur manbasi: [GitHubda ko'rish](https://github.com/SanjarbekSaminjonov/manage
 
 Tashrif buyuring: [Gidro smart telegram boti](https://t.me/managewaterbot)
 
+## Loyiha davomidan erishilgan sertifikatlar
+
+PDF formatda ko'rish: [BGU](./BGU_20220314.pdf)
+
+PDF formatda ko'rish: [DGU](./DGU_20227072.pdf)
+
 <hr/>
 
 <center>
