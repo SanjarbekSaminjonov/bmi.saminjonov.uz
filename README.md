@@ -1,4 +1,4 @@
-# bmi.saminjonov.uz (2022-2023)
+# Bitiruv malakaviy ish - Sanjarbek Saminjonov
 
 ## Taqdimot
 [PDF formatda ko'rish](./presentation.pdf)
